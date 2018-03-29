@@ -1,0 +1,71 @@
+body{
+	background-image: url("../img/poly5.jpg");
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	margin: 200px 0px 0px 0px;
+	text-align: center;
+	font-size: 72px;
+	font-family: 'Rammetto One', cursive;
+	color: #1de9c3; 
+}
+
+nav{
+	background-color: #10a98d;
+}
+
+li{
+	text-decoration-style: none;
+	display: inline;
+}
+
+ul{
+	list-style-type: none;
+	padding: 15px;
+	margin: 0px;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+	margin: 20px;
+}
+
+li a:hover{
+	text-decoration:; underline;
+}
+
+#secondtitle{
+	color: white;
+	text-align: center;
+	margin: 0px;
+	font-size: 28px;
+	font-family: 'Rammetto One', cursive;
+}
+
+#button1{
+	text-align: center;
+	background-color: transparent;
+	border: none;
+	margin: 0 auto;
+	margin-top: 5px;
+	width: 1920px;
+	color: #1de9c3;
+	font-size: 28px;
+}
+
+#button1:hover{
+	cursor: pointer;
+}
+
+p{
+	color: white;
+	margin: 40px 0px 0px 320px;
+	width: 600px;
+	font-size: 28px;
+	background-color: #00000036;
+	padding: 20px;
+}
